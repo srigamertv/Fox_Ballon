@@ -74,7 +74,7 @@ Baseado no sistema VORP do RedM.
  
 - **Video Preview:**
 
-| [![Assista ao vídeo](https://img.youtube.com/vi/juYjShOphmI/0.jpg)](https://www.youtube.com/watch?v=juYjShOphmI) |
+| [![Assista ao vídeo](https://img.youtube.com/vi/-uYhCIxDMaE/0.jpg)](https://www.youtube.com/watch?v=-uYhCIxDMaE) |
 | --- |
 
 <br>
