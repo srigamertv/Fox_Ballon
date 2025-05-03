@@ -1,6 +1,7 @@
 # 🎈 Sistema de Balão - RedM (VORP Framework)
 
 Este recurso permite que jogadores comprem e controlem balões de ar quente em locais definidos no mapa. O sistema é totalmente compatível com o VORP Framework e oferece integração com inventário, prompts de controle, e configurações de impostos.
+>>>>>>> 5533413c9c78063581ac09ece1e37f12d81a7478
 
 ---
 
